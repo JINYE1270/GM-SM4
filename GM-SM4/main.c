@@ -2,7 +2,7 @@
 //  main.c
 //  GM-SM4
 //
-//  Created by 蒋鹏飞 on 2020/8/21.
+//  Created by 野尽 on 2020/8/21.
 //  Copyright © 2020 野尽. All rights reserved.
 //
 
